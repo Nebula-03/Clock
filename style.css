@@ -56,8 +56,8 @@ animation: animate 5s ease-in-out infinite;
 .box{
     position: relative;
     z-index: 1;
-    width:400px;
-    height:400px;
+    width:340px;
+    height:340px;
     backdrop-filter: blur(25px);
     border-radius: 50%;
     border:1px solid rgba(255,255,255,0.5);
